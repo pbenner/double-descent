@@ -33,7 +33,7 @@ plt.show()
 
 
     
-![png](https://raw.githubusercontent.com/pbenner/modhmm/master/README_files/README_4_0.png)
+![png](https://raw.githubusercontent.com/pbenner/double-descent/master/README_files/README_4_0.png)
     
 
 
@@ -139,7 +139,7 @@ plt.show()
 
 
     
-![png](https://raw.githubusercontent.com/pbenner/modhmm/master/README_files/README_16_0.png)
+![png](https://raw.githubusercontent.com/pbenner/double-descent/master/README_files/README_16_0.png)
     
 
 
@@ -256,7 +256,7 @@ plt.show()
 
 
     
-![png](https://raw.githubusercontent.com/pbenner/modhmm/master/README_files/README_27_0.png)
+![png](https://raw.githubusercontent.com/pbenner/double-descent/master/README_files/README_27_0.png)
     
 
 
@@ -323,7 +323,7 @@ plt.show()
 
 
     
-![png](https://raw.githubusercontent.com/pbenner/modhmm/master/README_files/README_34_0.png)
+![png](https://raw.githubusercontent.com/pbenner/double-descent/master/README_files/README_34_0.png)
     
 
 
@@ -392,7 +392,7 @@ plt.show()
 
 
     
-![png](https://raw.githubusercontent.com/pbenner/modhmm/master/README_files/README_40_0.png)
+![png](https://raw.githubusercontent.com/pbenner/double-descent/master/README_files/README_40_0.png)
     
 
 
@@ -438,7 +438,7 @@ plt.show()
 
 
     
-![png](https://raw.githubusercontent.com/pbenner/modhmm/master/README_files/README_45_0.png)
+![png](https://raw.githubusercontent.com/pbenner/double-descent/master/README_files/README_45_0.png)
     
 
 
@@ -456,7 +456,7 @@ plt.show()
 
 
     
-![png](https://raw.githubusercontent.com/pbenner/modhmm/master/README_files/README_46_0.png)
+![png](https://raw.githubusercontent.com/pbenner/double-descent/master/README_files/README_46_0.png)
     
 
 
@@ -474,7 +474,7 @@ plt.show()
 
 
     
-![png](https://raw.githubusercontent.com/pbenner/modhmm/master/README_files/README_47_0.png)
+![png](https://raw.githubusercontent.com/pbenner/double-descent/master/README_files/README_47_0.png)
     
 
 
@@ -503,7 +503,7 @@ plt.show()
 
 
     
-![png](https://raw.githubusercontent.com/pbenner/modhmm/master/README_files/README_50_0.png)
+![png](https://raw.githubusercontent.com/pbenner/double-descent/master/README_files/README_50_0.png)
     
 
 
@@ -543,7 +543,7 @@ plt.show()
 
 
     
-![png](https://raw.githubusercontent.com/pbenner/modhmm/master/README_files/README_55_0.png)
+![png](https://raw.githubusercontent.com/pbenner/double-descent/master/README_files/README_55_0.png)
     
 
 
