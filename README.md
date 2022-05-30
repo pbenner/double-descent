@@ -7,7 +7,7 @@
 
 <div class="cell markdown">
 
-## \#\#\# Import python packages
+##  Import python packages
 
 </div>
 
@@ -28,7 +28,7 @@ from sklearn.linear_model import LinearRegression
 
 ------------------------------------------------------------------------
 
-## \# Intuition behind double descent
+##  Intuition behind double descent
 
 </div>
 
@@ -168,7 +168,7 @@ OLSnorm(np.array([f1, f2, f4]).T, y)
 
 ------------------------------------------------------------------------
 
-## \#\#\# Data set
+##  Data set
 
 </div>
 
@@ -220,7 +220,7 @@ plt.show()
 
 ------------------------------------------------------------------------
 
-## \#\#\# Linear regressor class
+##  Linear regressor class
 
 </div>
 
@@ -269,7 +269,7 @@ class MyRidgeRegressor:
 
 ------------------------------------------------------------------------
 
-## \#\#\# Model evaluation
+##  Model evaluation
 
 </div>
 
@@ -302,7 +302,7 @@ def evaluate_model(fg, X, y, n, ps, runs=10):
 
 ------------------------------------------------------------------------
 
-## \# 1 Random features
+##  1 Random features
 
 </div>
 
@@ -362,7 +362,7 @@ class RandomFeatures():
 
 ------------------------------------------------------------------------
 
-## \#\#\# Results
+##  Results
 
 </div>
 
@@ -402,7 +402,7 @@ plt.show()
 
 ------------------------------------------------------------------------
 
-## \# 2 Noisy polynomial features
+##  2 Noisy polynomial features
 
 </div>
 
@@ -483,7 +483,7 @@ class NoisyPolynomialFeatures():
 
 ------------------------------------------------------------------------
 
-## \#\#\# Results
+##  Results
 
 </div>
 
@@ -533,7 +533,7 @@ plt.show()
 
 ------------------------------------------------------------------------
 
-## \# 3 Polynomial features combined with random features
+##  3 Polynomial features combined with random features
 
 </div>
 
@@ -598,7 +598,7 @@ class PolynomialWithRandomFeatures():
 
 ------------------------------------------------------------------------
 
-## \#\#\# Results
+##  Results
 
 </div>
 
@@ -639,7 +639,7 @@ plt.show()
 
 ------------------------------------------------------------------------
 
-## \# 4 Legendre polynomial
+##  4 Legendre polynomial
 
 </div>
 
@@ -663,7 +663,7 @@ class LegendrePolynomialFeatures():
 
 ------------------------------------------------------------------------
 
-## \#\#\# Demonstration
+##  Demonstration
 
 </div>
 
@@ -744,7 +744,7 @@ plt.show()
 
 ------------------------------------------------------------------------
 
-## \#\#\# Results
+##  Results
 
 </div>
 
@@ -783,7 +783,7 @@ plt.show()
 
 ------------------------------------------------------------------------
 
-## \#\#\# Correlation analysis
+##  Correlation analysis
 
 </div>
 
